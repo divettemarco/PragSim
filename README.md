@@ -1,8 +1,10 @@
 # A Corpus of Pragmatic-Similarity Judgments over Spoken-Dialog Utterances
 This is a collection of 1,980 pragmatic-similarity judgments of spoken-dialog utterance pairs. 
 ## Expected Uses
+This data release can be used as an example for future data collections using the same or a similar protocol. This can also be used for modeling.
 
 ## Collection Procedure
+Participants, judgment session structure, judgment process.
 
 ## Directory Structure and File Formats
 judgments/judgment-data.xlsx is the main data set for 220 stimuli total. Each row has columns for the stimuli #, stimuli name, seed name, and reenactment pair name as well as the judgments given by the 9 participants.
