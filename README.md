@@ -1,7 +1,8 @@
 # A Corpus of Pragmatic-Similarity Judgments over Spoken-Dialog Utterances
-This is a collection of 1,980 pragmatic-similarity judgments of spoken-dialog utterance pairs. 
+This is a collection of 1,980 pragmatic-similarity judgments of spoken-dialog utterance pairs. Judgments are done on a continuous scale of 0 to 4, where 0 represents no similarities between an utterance pair and 4 represents almost identical.
+
 ## Expected Uses
-This data release can be used as an example for future data collections using the same or a similar protocol. This can also be used for modeling.
+This data release can be used as an example for future data collections using the same or a similar protocol. This can also be used for modeling purposes as some data is included for normalization purposes.
 
 ## Collection Procedure
 Participants, judgment session structure, judgment process.
