@@ -1,11 +1,11 @@
 # A Corpus of Pragmatic-Similarity Judgments over Spoken-Dialog Utterances
-This is a collection of 1,980 pragmatic-similarity judgments of spoken-dialog utterance pairs. Judgments are done on a continuous scale of 0 to 4, where 0 represents no similarities between an utterance pair and 4 represents almost identical. Each pair consists of a seed, taken from a real dialog and a reenactment, separated by a beep. The reenactments were created using 6 methods described in a conference paper under preparation.
+This is a collection of 1,980 pragmatic-similarity judgments of spoken-dialog utterance pairs. Judgments are done on a continuous scale of 0 to 4, where 0 represents no similarities between an utterance pair and 4 represents two utterance pairs that are almost identical. Each pair consists of a seed, taken from a real dialog, and a reenactment, separated by a beep. The reenactments were created using 6 methods described in a conference paper that is under preparation.
 
 ## Expected Uses
-This data is intended to be used or training an automatic model of similarity.
+This data is intended to be used on training an automatic model of similarity.
 
 ## Collection Procedure
-Judgments were collected in a four hour judgment session where there were 9, mostly naive, judges in one room. They were trained and then listened to the stimuli and gave judgments. Judgments were entered using a QuestionPro form: https://utepsubacc.questionpro.com/t/AX8ttZzJBn.
+Judgments were collected in a four hour judgment session where there were 9, mostly naive, judges in one room. The judges were trained on the rating process and then listened to the stimuli and gave judgments. Judgments were entered using a QuestionPro form: https://utepsubacc.questionpro.com/t/AX8ttZzJBn.
 
 ## Directory Structure and File Formats
 judgments/judgment-data.xlsx is the main data set for the 220 stimuli judged so far. Each row has columns for the stimulus #, stimulus name, seed name, and reenactment name as well as the judgments given by the 9 participants.
