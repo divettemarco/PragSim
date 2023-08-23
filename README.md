@@ -12,8 +12,6 @@ judgments/judgment-data.xlsx is the main data set for the 220 stimuli judged so 
 
 The stimuli used in the judgment session are found in stimuli-reordered/, with 458 total, and kids-stimuli/, with 5 total, which is an overall total of 463 stimuli. We were not able to do some methods for two seeds due to missing context required for those reenactment methods. We only used the first 220 stimuli in the judgment session. The seed utterances chosen for creating the stimuli are found in seeds/ while the reenactments of those utterances are found in reenactments/. The full dialogue-conversations from which the seeds were retrieved from are found in full-conversations/, which also has audio for the entire sequence of reenactments created by the reenactors.
 
-All audio is in 16KHz format. The stimuli, seeds, reenactments, and reenactment files are all mono. All other audios are stereo.
-
-All audios in kids-stimuli/, reenactments/, seeds/, and stimuli-reordered/ are mono and 44100Hz format. In full-conversations/, reenactment audios are mono and 16000Hz format while the source convsersations are all stereo and either 16000Hz or 8000Hz format.
+All audios in kids-stimuli/, reenactments/, seeds/, and stimuli-reordered/ are mono and 44.1KHz format. In full-conversations/, reenactment audios are mono and 16KHz format while the source convsersations are all stereo and either 16KHz or 8KHz format.
 
 metadata/judge-data.xlsx contains the ID, gender, and age range of all 9 judges. metadata/source-conversations.xlsx contains information on each speaker in the seeds including their ID and the source conversation, found under clip-source code, it also has the names of the source recordings, track info, corpus name, and the URL for the corpus from which the source conversations were taken. metadata/reference-conversations.xlsx contains information on the reenactors including an ID, the names of their full reenactment recordings, gender, age range, and initials.
